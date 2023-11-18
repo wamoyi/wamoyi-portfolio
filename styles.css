@@ -4,9 +4,25 @@ h1{
 .child{
     float:center;
     width:50%;
+    background-color: grey;
     
 
 }
 p{
     color:blue;
+    
+}
+h2{
+    color:green;
+}
+h3{
+    color:red;
+}
+body{
+    background-color:lightblue;
+}
+.portfolio{
+    background-color:lightblue;
+    width : 50%;
+    float:center;
 }
